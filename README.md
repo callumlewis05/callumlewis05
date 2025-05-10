@@ -1,16 +1,21 @@
-## Hi there 👋
+<img src="profile.gif" width="100%" />
 
-<!--
-**callumlewis05/callumlewis05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=PostgreSQL)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS&logoColor=663399)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=Svelte)
+![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000?&logo=raspberrypi)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=jupyter)
+![NGINX](https://img.shields.io/badge/-NGINX-000?&logo=nginx&logoColor=009639)
